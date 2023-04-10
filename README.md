@@ -1,4 +1,4 @@
-# Web-Scraping
+# Web Scraping and Crawling
 Exploration by utilizing numerous Web Scraping tools.
 
 ## Abstract
